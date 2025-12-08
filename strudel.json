@@ -1,5 +1,5 @@
 {
 	"_base": "https://raw.githubusercontent.com/kielmorris34/samplez/main",
-	"sing": ["little-girl-sing-sri-lankan.wav"],
-	"talk": ["mummy.wav","woman-please-open-door.wav"]
+	"sing": ["sing/little-girl-sing-sri-lankan.wav"],
+	"talk": ["talk/mummy.wav","talk/woman-please-open-door.wav"]
 }
